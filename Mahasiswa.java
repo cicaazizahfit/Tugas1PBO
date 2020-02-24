@@ -1,6 +1,6 @@
 import java.util.Map;
 import java.util.Random;
-public class Student{
+public class Mahasiswa{
     private String id;
     private String firstName;
     private String lastName;
